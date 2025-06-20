@@ -4,17 +4,6 @@ This project applies classical ML and deep learning models to predict the **Rema
 
 ---
 
-## 📂 Repository Structure
-/
-├── RUL_FD001.ipynb # LSTM model
-├── RUL_FD002.ipynb # SVR + Random Forest
-├── RUL_FD003.ipynb # Random Forest
-├── RUL_FD004.ipynb # Tuned LSTM
-├── LICENSE
-└── README.md
-
----
-
 ## 👥 Team Members
 
 | Name             |
