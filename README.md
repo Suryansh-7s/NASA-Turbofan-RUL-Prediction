@@ -66,10 +66,6 @@ Each record includes engine ID, cycle, 3 operating settings, 21 sensor readings,
 
 ---
 
-> ⚠️ Note: This project was submitted under a team as per university rules, but all development, modeling, experimentation, and documentation were solely performed by **Suryansh Sharma**.
-
----
-
 ## 🔐 License & Usage
 
 This repository is for **educational demonstration only**.  
@@ -83,3 +79,7 @@ No part of the code or data may be reused or modified without permission.
 
 📧 Email: sharmasuryansh2004@gmail.com  
 🔗 LinkedIn: [Suryansh Sharma](https://www.linkedin.com/in/suryansh-sharmaseven/)
+
+---
+
+> ⚠️ Note: This project was submitted under a team as per university rules, but all development, modeling, experimentation, and documentation were solely performed by **Suryansh Sharma**.
