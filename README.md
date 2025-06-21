@@ -4,17 +4,6 @@ This project applies classical ML and deep learning models to predict the **Rema
 
 ---
 
-## 👥 Team Members
-
-| Name             |
-|------------------|
-| Suryansh Sharma  |
-| Dhruv Sharma     |
-| Deeya Rajput     |
-| Aman Yadav       |
-
----
-
 ## 📊 Dataset Summary
 
 | Dataset | Operating Conditions | Fault Modes | Train / Test Engines |
@@ -74,6 +63,10 @@ Each record includes engine ID, cycle, 3 operating settings, 21 sensor readings,
 - Heimes (2008) – *Recurrent Neural Networks for RUL Estimation*  
 - Smola & Schölkopf (2004) – *Support Vector Regression Tutorial*  
 - Gebraeel & Pan (2008) – *Degradation Models in Time-Varying Environments*
+
+---
+
+> ⚠️ Note: This project was submitted under a team as per university rules, but all development, modeling, experimentation, and documentation were solely performed by **Suryansh Sharma**.
 
 ---
 
