@@ -46,16 +46,6 @@ Each record includes engine ID, cycle, 3 operating settings, 21 sensor readings,
 
 ---
 
-## 🔭 Future Work
-
-- Transformer-based sequence models  
-- Real-time dashboards via Streamlit  
-- GPU-accelerated hyperparameter tuning  
-- Explainability (SHAP, LIME)  
-- Transfer learning for generalization
-
----
-
 ## 📚 References
 
 - NASA C-MAPSS Dataset – [Link](https://www.nasa.gov/data/CMAPSS)  
